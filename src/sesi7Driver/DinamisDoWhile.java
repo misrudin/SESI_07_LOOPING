@@ -12,7 +12,7 @@ import sesi7Objek.DoWhileObjek;
  *
  * @author riseloka
  */
-public class DimanisDoWhile {
+public class DinamisDoWhile {
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
